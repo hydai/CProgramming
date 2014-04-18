@@ -1,0 +1,7 @@
+int i;
+float f;
+long l;
+f = 5.4;
+i = ;
+l = 2;
+//return 0;

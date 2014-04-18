@@ -1,0 +1,5 @@
+https://www.google.com.tw/search?q=foo+bar&ie=utf-8&oe=utf-8&aq=t
+https://www.google.com.tw/imghp?q=foo+bar&ie=utf-8&oe=utf-8&aq=t
+https://www.google.com.tw/maps?q=foo+bar&ie=utf-8&oe=utf-8&aq=t
+https://www.google.com.tw/nwshp?q=foo+bar&ie=utf-8&oe=utf-8&aq=t
+https://www.google.com.tw/unknown?q=foo+bar&ie=utf-8&oe=utf-8&aq=t

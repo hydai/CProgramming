@@ -1,0 +1,600 @@
+======================================
+PC = 31
+
+reg[0]=   0
+reg[1]=ffff
+reg[2]=   0
+reg[3]=   0
+reg[4]=   0
+reg[5]=   0
+reg[6]=   0
+reg[7]=   0
+memory[0x 0]=   0, memory[0x 1]=   0, memory[0x 2]=   0, memory[0x 3]=   0
+memory[0x 4]=   0, memory[0x 5]=   0, memory[0x 6]=   0, memory[0x 7]=   0
+memory[0x 8]=   0, memory[0x 9]=   0, memory[0x a]=   0, memory[0x b]=   0
+memory[0x c]=   0, memory[0x d]=   0, memory[0x e]=   0, memory[0x f]=   0
+memory[0x10]=   0, memory[0x11]=   0, memory[0x12]=   0, memory[0x13]=   0
+memory[0x14]=   0, memory[0x15]=   0, memory[0x16]=   0, memory[0x17]=   0
+memory[0x18]=   0, memory[0x19]=   0, memory[0x1a]=   0, memory[0x1b]=   0
+memory[0x1c]=   0, memory[0x1d]=   0, memory[0x1e]=   0, memory[0x1f]=   0
+memory[0x20]=   0, memory[0x21]=   0, memory[0x22]=   0, memory[0x23]=   0
+memory[0x24]=   0, memory[0x25]=   0, memory[0x26]=   0, memory[0x27]=   0
+memory[0x28]=   0, memory[0x29]=   0, memory[0x2a]=   0, memory[0x2b]=   0
+memory[0x2c]=   0, memory[0x2d]=   0, memory[0x2e]=   0, memory[0x2f]=   0
+======================================
+======================================
+PC = 32
+
+reg[0]=   0
+reg[1]=ffff
+reg[2]=ffff
+reg[3]=   0
+reg[4]=   0
+reg[5]=   0
+reg[6]=   0
+reg[7]=   0
+memory[0x 0]=   0, memory[0x 1]=   0, memory[0x 2]=   0, memory[0x 3]=   0
+memory[0x 4]=   0, memory[0x 5]=   0, memory[0x 6]=   0, memory[0x 7]=   0
+memory[0x 8]=   0, memory[0x 9]=   0, memory[0x a]=   0, memory[0x b]=   0
+memory[0x c]=   0, memory[0x d]=   0, memory[0x e]=   0, memory[0x f]=   0
+memory[0x10]=   0, memory[0x11]=   0, memory[0x12]=   0, memory[0x13]=   0
+memory[0x14]=   0, memory[0x15]=   0, memory[0x16]=   0, memory[0x17]=   0
+memory[0x18]=   0, memory[0x19]=   0, memory[0x1a]=   0, memory[0x1b]=   0
+memory[0x1c]=   0, memory[0x1d]=   0, memory[0x1e]=   0, memory[0x1f]=   0
+memory[0x20]=   0, memory[0x21]=   0, memory[0x22]=   0, memory[0x23]=   0
+memory[0x24]=   0, memory[0x25]=   0, memory[0x26]=   0, memory[0x27]=   0
+memory[0x28]=   0, memory[0x29]=   0, memory[0x2a]=   0, memory[0x2b]=   0
+memory[0x2c]=   0, memory[0x2d]=   0, memory[0x2e]=   0, memory[0x2f]=   0
+======================================
+======================================
+PC = 33
+
+reg[0]=   0
+reg[1]=ffff
+reg[2]=ffff
+reg[3]=ffff
+reg[4]=   0
+reg[5]=   0
+reg[6]=   0
+reg[7]=   0
+memory[0x 0]=   0, memory[0x 1]=   0, memory[0x 2]=   0, memory[0x 3]=   0
+memory[0x 4]=   0, memory[0x 5]=   0, memory[0x 6]=   0, memory[0x 7]=   0
+memory[0x 8]=   0, memory[0x 9]=   0, memory[0x a]=   0, memory[0x b]=   0
+memory[0x c]=   0, memory[0x d]=   0, memory[0x e]=   0, memory[0x f]=   0
+memory[0x10]=   0, memory[0x11]=   0, memory[0x12]=   0, memory[0x13]=   0
+memory[0x14]=   0, memory[0x15]=   0, memory[0x16]=   0, memory[0x17]=   0
+memory[0x18]=   0, memory[0x19]=   0, memory[0x1a]=   0, memory[0x1b]=   0
+memory[0x1c]=   0, memory[0x1d]=   0, memory[0x1e]=   0, memory[0x1f]=   0
+memory[0x20]=   0, memory[0x21]=   0, memory[0x22]=   0, memory[0x23]=   0
+memory[0x24]=   0, memory[0x25]=   0, memory[0x26]=   0, memory[0x27]=   0
+memory[0x28]=   0, memory[0x29]=   0, memory[0x2a]=   0, memory[0x2b]=   0
+memory[0x2c]=   0, memory[0x2d]=   0, memory[0x2e]=   0, memory[0x2f]=   0
+======================================
+======================================
+PC = 34
+
+reg[0]=   0
+reg[1]=ffff
+reg[2]=ffff
+reg[3]=ffff
+reg[4]=   f
+reg[5]=   0
+reg[6]=   0
+reg[7]=   0
+memory[0x 0]=   0, memory[0x 1]=   0, memory[0x 2]=   0, memory[0x 3]=   0
+memory[0x 4]=   0, memory[0x 5]=   0, memory[0x 6]=   0, memory[0x 7]=   0
+memory[0x 8]=   0, memory[0x 9]=   0, memory[0x a]=   0, memory[0x b]=   0
+memory[0x c]=   0, memory[0x d]=   0, memory[0x e]=   0, memory[0x f]=   0
+memory[0x10]=   0, memory[0x11]=   0, memory[0x12]=   0, memory[0x13]=   0
+memory[0x14]=   0, memory[0x15]=   0, memory[0x16]=   0, memory[0x17]=   0
+memory[0x18]=   0, memory[0x19]=   0, memory[0x1a]=   0, memory[0x1b]=   0
+memory[0x1c]=   0, memory[0x1d]=   0, memory[0x1e]=   0, memory[0x1f]=   0
+memory[0x20]=   0, memory[0x21]=   0, memory[0x22]=   0, memory[0x23]=   0
+memory[0x24]=   0, memory[0x25]=   0, memory[0x26]=   0, memory[0x27]=   0
+memory[0x28]=   0, memory[0x29]=   0, memory[0x2a]=   0, memory[0x2b]=   0
+memory[0x2c]=   0, memory[0x2d]=   0, memory[0x2e]=   0, memory[0x2f]=   0
+======================================
+======================================
+PC = 35
+
+reg[0]=   0
+reg[1]=ffff
+reg[2]=ffff
+reg[3]=ffff
+reg[4]=   f
+reg[5]=   f
+reg[6]=   0
+reg[7]=   0
+memory[0x 0]=   0, memory[0x 1]=   0, memory[0x 2]=   0, memory[0x 3]=   0
+memory[0x 4]=   0, memory[0x 5]=   0, memory[0x 6]=   0, memory[0x 7]=   0
+memory[0x 8]=   0, memory[0x 9]=   0, memory[0x a]=   0, memory[0x b]=   0
+memory[0x c]=   0, memory[0x d]=   0, memory[0x e]=   0, memory[0x f]=   0
+memory[0x10]=   0, memory[0x11]=   0, memory[0x12]=   0, memory[0x13]=   0
+memory[0x14]=   0, memory[0x15]=   0, memory[0x16]=   0, memory[0x17]=   0
+memory[0x18]=   0, memory[0x19]=   0, memory[0x1a]=   0, memory[0x1b]=   0
+memory[0x1c]=   0, memory[0x1d]=   0, memory[0x1e]=   0, memory[0x1f]=   0
+memory[0x20]=   0, memory[0x21]=   0, memory[0x22]=   0, memory[0x23]=   0
+memory[0x24]=   0, memory[0x25]=   0, memory[0x26]=   0, memory[0x27]=   0
+memory[0x28]=   0, memory[0x29]=   0, memory[0x2a]=   0, memory[0x2b]=   0
+memory[0x2c]=   0, memory[0x2d]=   0, memory[0x2e]=   0, memory[0x2f]=   0
+======================================
+======================================
+PC = 36
+
+reg[0]=   0
+reg[1]=ffff
+reg[2]=ffff
+reg[3]=ffff
+reg[4]=   f
+reg[5]=  1e
+reg[6]=   0
+reg[7]=   0
+memory[0x 0]=   0, memory[0x 1]=   0, memory[0x 2]=   0, memory[0x 3]=   0
+memory[0x 4]=   0, memory[0x 5]=   0, memory[0x 6]=   0, memory[0x 7]=   0
+memory[0x 8]=   0, memory[0x 9]=   0, memory[0x a]=   0, memory[0x b]=   0
+memory[0x c]=   0, memory[0x d]=   0, memory[0x e]=   0, memory[0x f]=   0
+memory[0x10]=   0, memory[0x11]=   0, memory[0x12]=   0, memory[0x13]=   0
+memory[0x14]=   0, memory[0x15]=   0, memory[0x16]=   0, memory[0x17]=   0
+memory[0x18]=   0, memory[0x19]=   0, memory[0x1a]=   0, memory[0x1b]=   0
+memory[0x1c]=   0, memory[0x1d]=   0, memory[0x1e]=   0, memory[0x1f]=   0
+memory[0x20]=   0, memory[0x21]=   0, memory[0x22]=   0, memory[0x23]=   0
+memory[0x24]=   0, memory[0x25]=   0, memory[0x26]=   0, memory[0x27]=   0
+memory[0x28]=   0, memory[0x29]=   0, memory[0x2a]=   0, memory[0x2b]=   0
+memory[0x2c]=   0, memory[0x2d]=   0, memory[0x2e]=   0, memory[0x2f]=   0
+======================================
+======================================
+PC = 37
+
+reg[0]=   0
+reg[1]=ffff
+reg[2]=ffff
+reg[3]=ffff
+reg[4]=   f
+reg[5]=  1e
+reg[6]=ffff
+reg[7]=   0
+memory[0x 0]=   0, memory[0x 1]=   0, memory[0x 2]=   0, memory[0x 3]=   0
+memory[0x 4]=   0, memory[0x 5]=   0, memory[0x 6]=   0, memory[0x 7]=   0
+memory[0x 8]=   0, memory[0x 9]=   0, memory[0x a]=   0, memory[0x b]=   0
+memory[0x c]=   0, memory[0x d]=   0, memory[0x e]=   0, memory[0x f]=   0
+memory[0x10]=   0, memory[0x11]=   0, memory[0x12]=   0, memory[0x13]=   0
+memory[0x14]=   0, memory[0x15]=   0, memory[0x16]=   0, memory[0x17]=   0
+memory[0x18]=   0, memory[0x19]=   0, memory[0x1a]=   0, memory[0x1b]=   0
+memory[0x1c]=   0, memory[0x1d]=   0, memory[0x1e]=   0, memory[0x1f]=   0
+memory[0x20]=   0, memory[0x21]=   0, memory[0x22]=   0, memory[0x23]=   0
+memory[0x24]=   0, memory[0x25]=   0, memory[0x26]=   0, memory[0x27]=   0
+memory[0x28]=   0, memory[0x29]=   0, memory[0x2a]=   0, memory[0x2b]=   0
+memory[0x2c]=   0, memory[0x2d]=   0, memory[0x2e]=   0, memory[0x2f]=   0
+======================================
+======================================
+PC = 38
+
+reg[0]=   0
+reg[1]=ffff
+reg[2]=ffff
+reg[3]=ffff
+reg[4]=   f
+reg[5]=  1e
+reg[6]=   0
+reg[7]=   0
+memory[0x 0]=   0, memory[0x 1]=   0, memory[0x 2]=   0, memory[0x 3]=   0
+memory[0x 4]=   0, memory[0x 5]=   0, memory[0x 6]=   0, memory[0x 7]=   0
+memory[0x 8]=   0, memory[0x 9]=   0, memory[0x a]=   0, memory[0x b]=   0
+memory[0x c]=   0, memory[0x d]=   0, memory[0x e]=   0, memory[0x f]=   0
+memory[0x10]=   0, memory[0x11]=   0, memory[0x12]=   0, memory[0x13]=   0
+memory[0x14]=   0, memory[0x15]=   0, memory[0x16]=   0, memory[0x17]=   0
+memory[0x18]=   0, memory[0x19]=   0, memory[0x1a]=   0, memory[0x1b]=   0
+memory[0x1c]=   0, memory[0x1d]=   0, memory[0x1e]=   0, memory[0x1f]=   0
+memory[0x20]=   0, memory[0x21]=   0, memory[0x22]=   0, memory[0x23]=   0
+memory[0x24]=   0, memory[0x25]=   0, memory[0x26]=   0, memory[0x27]=   0
+memory[0x28]=   0, memory[0x29]=   0, memory[0x2a]=   0, memory[0x2b]=   0
+memory[0x2c]=   0, memory[0x2d]=   0, memory[0x2e]=   0, memory[0x2f]=   0
+======================================
+======================================
+PC = 37
+
+reg[0]=   0
+reg[1]=ffff
+reg[2]=ffff
+reg[3]=ffff
+reg[4]=   f
+reg[5]=  1e
+reg[6]=   0
+reg[7]=   0
+memory[0x 0]=   0, memory[0x 1]=   0, memory[0x 2]=   0, memory[0x 3]=   0
+memory[0x 4]=   0, memory[0x 5]=   0, memory[0x 6]=   0, memory[0x 7]=   0
+memory[0x 8]=   0, memory[0x 9]=   0, memory[0x a]=   0, memory[0x b]=   0
+memory[0x c]=   0, memory[0x d]=   0, memory[0x e]=   0, memory[0x f]=   0
+memory[0x10]=   0, memory[0x11]=   0, memory[0x12]=   0, memory[0x13]=   0
+memory[0x14]=   0, memory[0x15]=   0, memory[0x16]=   0, memory[0x17]=   0
+memory[0x18]=   0, memory[0x19]=   0, memory[0x1a]=   0, memory[0x1b]=   0
+memory[0x1c]=   0, memory[0x1d]=   0, memory[0x1e]=   0, memory[0x1f]=   0
+memory[0x20]=   0, memory[0x21]=   0, memory[0x22]=   0, memory[0x23]=   0
+memory[0x24]=   0, memory[0x25]=   0, memory[0x26]=   0, memory[0x27]=   0
+memory[0x28]=   0, memory[0x29]=   0, memory[0x2a]=   0, memory[0x2b]=   0
+memory[0x2c]=   0, memory[0x2d]=   0, memory[0x2e]=   0, memory[0x2f]=   0
+======================================
+======================================
+PC = 38
+
+reg[0]=   0
+reg[1]=ffff
+reg[2]=ffff
+reg[3]=ffff
+reg[4]=   f
+reg[5]=  1e
+reg[6]=   1
+reg[7]=   0
+memory[0x 0]=   0, memory[0x 1]=   0, memory[0x 2]=   0, memory[0x 3]=   0
+memory[0x 4]=   0, memory[0x 5]=   0, memory[0x 6]=   0, memory[0x 7]=   0
+memory[0x 8]=   0, memory[0x 9]=   0, memory[0x a]=   0, memory[0x b]=   0
+memory[0x c]=   0, memory[0x d]=   0, memory[0x e]=   0, memory[0x f]=   0
+memory[0x10]=   0, memory[0x11]=   0, memory[0x12]=   0, memory[0x13]=   0
+memory[0x14]=   0, memory[0x15]=   0, memory[0x16]=   0, memory[0x17]=   0
+memory[0x18]=   0, memory[0x19]=   0, memory[0x1a]=   0, memory[0x1b]=   0
+memory[0x1c]=   0, memory[0x1d]=   0, memory[0x1e]=   0, memory[0x1f]=   0
+memory[0x20]=   0, memory[0x21]=   0, memory[0x22]=   0, memory[0x23]=   0
+memory[0x24]=   0, memory[0x25]=   0, memory[0x26]=   0, memory[0x27]=   0
+memory[0x28]=   0, memory[0x29]=   0, memory[0x2a]=   0, memory[0x2b]=   0
+memory[0x2c]=   0, memory[0x2d]=   0, memory[0x2e]=   0, memory[0x2f]=   0
+======================================
+======================================
+PC = 39
+
+reg[0]=   0
+reg[1]=ffff
+reg[2]=ffff
+reg[3]=ffff
+reg[4]=   f
+reg[5]=  1e
+reg[6]=   1
+reg[7]=   0
+memory[0x 0]=   0, memory[0x 1]=   0, memory[0x 2]=   0, memory[0x 3]=   0
+memory[0x 4]=   0, memory[0x 5]=   0, memory[0x 6]=   0, memory[0x 7]=   0
+memory[0x 8]=   0, memory[0x 9]=   0, memory[0x a]=   0, memory[0x b]=   0
+memory[0x c]=   0, memory[0x d]=   0, memory[0x e]=   0, memory[0x f]=   0
+memory[0x10]=   0, memory[0x11]=   0, memory[0x12]=   0, memory[0x13]=   0
+memory[0x14]=   0, memory[0x15]=   0, memory[0x16]=   0, memory[0x17]=   0
+memory[0x18]=   0, memory[0x19]=   0, memory[0x1a]=   0, memory[0x1b]=   0
+memory[0x1c]=   0, memory[0x1d]=   0, memory[0x1e]=   0, memory[0x1f]=   0
+memory[0x20]=   0, memory[0x21]=   0, memory[0x22]=   0, memory[0x23]=   0
+memory[0x24]=   0, memory[0x25]=   0, memory[0x26]=   0, memory[0x27]=   0
+memory[0x28]=   0, memory[0x29]=   0, memory[0x2a]=   0, memory[0x2b]=   0
+memory[0x2c]=   0, memory[0x2d]=   0, memory[0x2e]=   0, memory[0x2f]=   0
+======================================
+======================================
+PC = 46
+
+reg[0]=   0
+reg[1]=ffff
+reg[2]=ffff
+reg[3]=ffff
+reg[4]=   f
+reg[5]=  1e
+reg[6]=   1
+reg[7]=  3a
+memory[0x 0]=   0, memory[0x 1]=   0, memory[0x 2]=   0, memory[0x 3]=   0
+memory[0x 4]=   0, memory[0x 5]=   0, memory[0x 6]=   0, memory[0x 7]=   0
+memory[0x 8]=   0, memory[0x 9]=   0, memory[0x a]=   0, memory[0x b]=   0
+memory[0x c]=   0, memory[0x d]=   0, memory[0x e]=   0, memory[0x f]=   0
+memory[0x10]=   0, memory[0x11]=   0, memory[0x12]=   0, memory[0x13]=   0
+memory[0x14]=   0, memory[0x15]=   0, memory[0x16]=   0, memory[0x17]=   0
+memory[0x18]=   0, memory[0x19]=   0, memory[0x1a]=   0, memory[0x1b]=   0
+memory[0x1c]=   0, memory[0x1d]=   0, memory[0x1e]=   0, memory[0x1f]=   0
+memory[0x20]=   0, memory[0x21]=   0, memory[0x22]=   0, memory[0x23]=   0
+memory[0x24]=   0, memory[0x25]=   0, memory[0x26]=   0, memory[0x27]=   0
+memory[0x28]=   0, memory[0x29]=   0, memory[0x2a]=   0, memory[0x2b]=   0
+memory[0x2c]=   0, memory[0x2d]=   0, memory[0x2e]=   0, memory[0x2f]=   0
+======================================
+======================================
+PC = 3a
+
+reg[0]=   0
+reg[1]=ffff
+reg[2]=ffff
+reg[3]=ffff
+reg[4]=   f
+reg[5]=  1e
+reg[6]=   1
+reg[7]=  3a
+memory[0x 0]=   0, memory[0x 1]=   0, memory[0x 2]=   0, memory[0x 3]=   0
+memory[0x 4]=   0, memory[0x 5]=   0, memory[0x 6]=   0, memory[0x 7]=   0
+memory[0x 8]=   0, memory[0x 9]=   0, memory[0x a]=   0, memory[0x b]=   0
+memory[0x c]=   0, memory[0x d]=   0, memory[0x e]=   0, memory[0x f]=   0
+memory[0x10]=   0, memory[0x11]=   0, memory[0x12]=   0, memory[0x13]=   0
+memory[0x14]=   0, memory[0x15]=   0, memory[0x16]=   0, memory[0x17]=   0
+memory[0x18]=   0, memory[0x19]=   0, memory[0x1a]=   0, memory[0x1b]=   0
+memory[0x1c]=   0, memory[0x1d]=   0, memory[0x1e]=   0, memory[0x1f]=   0
+memory[0x20]=   0, memory[0x21]=   0, memory[0x22]=   0, memory[0x23]=   0
+memory[0x24]=   0, memory[0x25]=   0, memory[0x26]=   0, memory[0x27]=   0
+memory[0x28]=   0, memory[0x29]=   0, memory[0x2a]=   0, memory[0x2b]=   0
+memory[0x2c]=   0, memory[0x2d]=   0, memory[0x2e]=   0, memory[0x2f]=   0
+======================================
+======================================
+PC = 3b
+
+reg[0]=   0
+reg[1]=   1
+reg[2]=ffff
+reg[3]=ffff
+reg[4]=   f
+reg[5]=  1e
+reg[6]=   1
+reg[7]=  3a
+memory[0x 0]=   0, memory[0x 1]=   0, memory[0x 2]=   0, memory[0x 3]=   0
+memory[0x 4]=   0, memory[0x 5]=   0, memory[0x 6]=   0, memory[0x 7]=   0
+memory[0x 8]=   0, memory[0x 9]=   0, memory[0x a]=   0, memory[0x b]=   0
+memory[0x c]=   0, memory[0x d]=   0, memory[0x e]=   0, memory[0x f]=   0
+memory[0x10]=   0, memory[0x11]=   0, memory[0x12]=   0, memory[0x13]=   0
+memory[0x14]=   0, memory[0x15]=   0, memory[0x16]=   0, memory[0x17]=   0
+memory[0x18]=   0, memory[0x19]=   0, memory[0x1a]=   0, memory[0x1b]=   0
+memory[0x1c]=   0, memory[0x1d]=   0, memory[0x1e]=   0, memory[0x1f]=   0
+memory[0x20]=   0, memory[0x21]=   0, memory[0x22]=   0, memory[0x23]=   0
+memory[0x24]=   0, memory[0x25]=   0, memory[0x26]=   0, memory[0x27]=   0
+memory[0x28]=   0, memory[0x29]=   0, memory[0x2a]=   0, memory[0x2b]=   0
+memory[0x2c]=   0, memory[0x2d]=   0, memory[0x2e]=   0, memory[0x2f]=   0
+======================================
+======================================
+PC = 3c
+
+reg[0]=   0
+reg[1]=   1
+reg[2]=   2
+reg[3]=ffff
+reg[4]=   f
+reg[5]=  1e
+reg[6]=   1
+reg[7]=  3a
+memory[0x 0]=   0, memory[0x 1]=   0, memory[0x 2]=   0, memory[0x 3]=   0
+memory[0x 4]=   0, memory[0x 5]=   0, memory[0x 6]=   0, memory[0x 7]=   0
+memory[0x 8]=   0, memory[0x 9]=   0, memory[0x a]=   0, memory[0x b]=   0
+memory[0x c]=   0, memory[0x d]=   0, memory[0x e]=   0, memory[0x f]=   0
+memory[0x10]=   0, memory[0x11]=   0, memory[0x12]=   0, memory[0x13]=   0
+memory[0x14]=   0, memory[0x15]=   0, memory[0x16]=   0, memory[0x17]=   0
+memory[0x18]=   0, memory[0x19]=   0, memory[0x1a]=   0, memory[0x1b]=   0
+memory[0x1c]=   0, memory[0x1d]=   0, memory[0x1e]=   0, memory[0x1f]=   0
+memory[0x20]=   0, memory[0x21]=   0, memory[0x22]=   0, memory[0x23]=   0
+memory[0x24]=   0, memory[0x25]=   0, memory[0x26]=   0, memory[0x27]=   0
+memory[0x28]=   0, memory[0x29]=   0, memory[0x2a]=   0, memory[0x2b]=   0
+memory[0x2c]=   0, memory[0x2d]=   0, memory[0x2e]=   0, memory[0x2f]=   0
+======================================
+======================================
+PC = 3d
+
+reg[0]=   0
+reg[1]=   1
+reg[2]=   2
+reg[3]=   3
+reg[4]=   f
+reg[5]=  1e
+reg[6]=   1
+reg[7]=  3a
+memory[0x 0]=   0, memory[0x 1]=   0, memory[0x 2]=   0, memory[0x 3]=   0
+memory[0x 4]=   0, memory[0x 5]=   0, memory[0x 6]=   0, memory[0x 7]=   0
+memory[0x 8]=   0, memory[0x 9]=   0, memory[0x a]=   0, memory[0x b]=   0
+memory[0x c]=   0, memory[0x d]=   0, memory[0x e]=   0, memory[0x f]=   0
+memory[0x10]=   0, memory[0x11]=   0, memory[0x12]=   0, memory[0x13]=   0
+memory[0x14]=   0, memory[0x15]=   0, memory[0x16]=   0, memory[0x17]=   0
+memory[0x18]=   0, memory[0x19]=   0, memory[0x1a]=   0, memory[0x1b]=   0
+memory[0x1c]=   0, memory[0x1d]=   0, memory[0x1e]=   0, memory[0x1f]=   0
+memory[0x20]=   0, memory[0x21]=   0, memory[0x22]=   0, memory[0x23]=   0
+memory[0x24]=   0, memory[0x25]=   0, memory[0x26]=   0, memory[0x27]=   0
+memory[0x28]=   0, memory[0x29]=   0, memory[0x2a]=   0, memory[0x2b]=   0
+memory[0x2c]=   0, memory[0x2d]=   0, memory[0x2e]=   0, memory[0x2f]=   0
+======================================
+======================================
+PC = 3e
+
+reg[0]=   0
+reg[1]=   1
+reg[2]=   2
+reg[3]=   3
+reg[4]=   f
+reg[5]=  1e
+reg[6]=   1
+reg[7]=  3a
+memory[0x 0]=   3, memory[0x 1]=   0, memory[0x 2]=   0, memory[0x 3]=   0
+memory[0x 4]=   0, memory[0x 5]=   0, memory[0x 6]=   0, memory[0x 7]=   0
+memory[0x 8]=   0, memory[0x 9]=   0, memory[0x a]=   0, memory[0x b]=   0
+memory[0x c]=   0, memory[0x d]=   0, memory[0x e]=   0, memory[0x f]=   0
+memory[0x10]=   0, memory[0x11]=   0, memory[0x12]=   0, memory[0x13]=   0
+memory[0x14]=   0, memory[0x15]=   0, memory[0x16]=   0, memory[0x17]=   0
+memory[0x18]=   0, memory[0x19]=   0, memory[0x1a]=   0, memory[0x1b]=   0
+memory[0x1c]=   0, memory[0x1d]=   0, memory[0x1e]=   0, memory[0x1f]=   0
+memory[0x20]=   0, memory[0x21]=   0, memory[0x22]=   0, memory[0x23]=   0
+memory[0x24]=   0, memory[0x25]=   0, memory[0x26]=   0, memory[0x27]=   0
+memory[0x28]=   0, memory[0x29]=   0, memory[0x2a]=   0, memory[0x2b]=   0
+memory[0x2c]=   0, memory[0x2d]=   0, memory[0x2e]=   0, memory[0x2f]=   0
+======================================
+======================================
+PC = 3f
+
+reg[0]=   0
+reg[1]=   1
+reg[2]=   2
+reg[3]=   3
+reg[4]=   f
+reg[5]=  1e
+reg[6]=   1
+reg[7]=  3a
+memory[0x 0]=   3, memory[0x 1]=   0, memory[0x 2]=   0, memory[0x 3]=   0
+memory[0x 4]=   2, memory[0x 5]=   0, memory[0x 6]=   0, memory[0x 7]=   0
+memory[0x 8]=   0, memory[0x 9]=   0, memory[0x a]=   0, memory[0x b]=   0
+memory[0x c]=   0, memory[0x d]=   0, memory[0x e]=   0, memory[0x f]=   0
+memory[0x10]=   0, memory[0x11]=   0, memory[0x12]=   0, memory[0x13]=   0
+memory[0x14]=   0, memory[0x15]=   0, memory[0x16]=   0, memory[0x17]=   0
+memory[0x18]=   0, memory[0x19]=   0, memory[0x1a]=   0, memory[0x1b]=   0
+memory[0x1c]=   0, memory[0x1d]=   0, memory[0x1e]=   0, memory[0x1f]=   0
+memory[0x20]=   0, memory[0x21]=   0, memory[0x22]=   0, memory[0x23]=   0
+memory[0x24]=   0, memory[0x25]=   0, memory[0x26]=   0, memory[0x27]=   0
+memory[0x28]=   0, memory[0x29]=   0, memory[0x2a]=   0, memory[0x2b]=   0
+memory[0x2c]=   0, memory[0x2d]=   0, memory[0x2e]=   0, memory[0x2f]=   0
+======================================
+======================================
+PC = 40
+
+reg[0]=   0
+reg[1]=   1
+reg[2]=   2
+reg[3]=   3
+reg[4]=   f
+reg[5]=  1e
+reg[6]=   1
+reg[7]=  3a
+memory[0x 0]=   3, memory[0x 1]=   0, memory[0x 2]=   0, memory[0x 3]=   1
+memory[0x 4]=   2, memory[0x 5]=   0, memory[0x 6]=   0, memory[0x 7]=   0
+memory[0x 8]=   0, memory[0x 9]=   0, memory[0x a]=   0, memory[0x b]=   0
+memory[0x c]=   0, memory[0x d]=   0, memory[0x e]=   0, memory[0x f]=   0
+memory[0x10]=   0, memory[0x11]=   0, memory[0x12]=   0, memory[0x13]=   0
+memory[0x14]=   0, memory[0x15]=   0, memory[0x16]=   0, memory[0x17]=   0
+memory[0x18]=   0, memory[0x19]=   0, memory[0x1a]=   0, memory[0x1b]=   0
+memory[0x1c]=   0, memory[0x1d]=   0, memory[0x1e]=   0, memory[0x1f]=   0
+memory[0x20]=   0, memory[0x21]=   0, memory[0x22]=   0, memory[0x23]=   0
+memory[0x24]=   0, memory[0x25]=   0, memory[0x26]=   0, memory[0x27]=   0
+memory[0x28]=   0, memory[0x29]=   0, memory[0x2a]=   0, memory[0x2b]=   0
+memory[0x2c]=   0, memory[0x2d]=   0, memory[0x2e]=   0, memory[0x2f]=   0
+======================================
+======================================
+PC = 41
+
+reg[0]=   0
+reg[1]=   3
+reg[2]=   2
+reg[3]=   3
+reg[4]=   f
+reg[5]=  1e
+reg[6]=   1
+reg[7]=  3a
+memory[0x 0]=   3, memory[0x 1]=   0, memory[0x 2]=   0, memory[0x 3]=   1
+memory[0x 4]=   2, memory[0x 5]=   0, memory[0x 6]=   0, memory[0x 7]=   0
+memory[0x 8]=   0, memory[0x 9]=   0, memory[0x a]=   0, memory[0x b]=   0
+memory[0x c]=   0, memory[0x d]=   0, memory[0x e]=   0, memory[0x f]=   0
+memory[0x10]=   0, memory[0x11]=   0, memory[0x12]=   0, memory[0x13]=   0
+memory[0x14]=   0, memory[0x15]=   0, memory[0x16]=   0, memory[0x17]=   0
+memory[0x18]=   0, memory[0x19]=   0, memory[0x1a]=   0, memory[0x1b]=   0
+memory[0x1c]=   0, memory[0x1d]=   0, memory[0x1e]=   0, memory[0x1f]=   0
+memory[0x20]=   0, memory[0x21]=   0, memory[0x22]=   0, memory[0x23]=   0
+memory[0x24]=   0, memory[0x25]=   0, memory[0x26]=   0, memory[0x27]=   0
+memory[0x28]=   0, memory[0x29]=   0, memory[0x2a]=   0, memory[0x2b]=   0
+memory[0x2c]=   0, memory[0x2d]=   0, memory[0x2e]=   0, memory[0x2f]=   0
+======================================
+======================================
+PC = 42
+
+reg[0]=   0
+reg[1]=   3
+reg[2]=   2
+reg[3]=   1
+reg[4]=   f
+reg[5]=  1e
+reg[6]=   1
+reg[7]=  3a
+memory[0x 0]=   3, memory[0x 1]=   0, memory[0x 2]=   0, memory[0x 3]=   1
+memory[0x 4]=   2, memory[0x 5]=   0, memory[0x 6]=   0, memory[0x 7]=   0
+memory[0x 8]=   0, memory[0x 9]=   0, memory[0x a]=   0, memory[0x b]=   0
+memory[0x c]=   0, memory[0x d]=   0, memory[0x e]=   0, memory[0x f]=   0
+memory[0x10]=   0, memory[0x11]=   0, memory[0x12]=   0, memory[0x13]=   0
+memory[0x14]=   0, memory[0x15]=   0, memory[0x16]=   0, memory[0x17]=   0
+memory[0x18]=   0, memory[0x19]=   0, memory[0x1a]=   0, memory[0x1b]=   0
+memory[0x1c]=   0, memory[0x1d]=   0, memory[0x1e]=   0, memory[0x1f]=   0
+memory[0x20]=   0, memory[0x21]=   0, memory[0x22]=   0, memory[0x23]=   0
+memory[0x24]=   0, memory[0x25]=   0, memory[0x26]=   0, memory[0x27]=   0
+memory[0x28]=   0, memory[0x29]=   0, memory[0x2a]=   0, memory[0x2b]=   0
+memory[0x2c]=   0, memory[0x2d]=   0, memory[0x2e]=   0, memory[0x2f]=   0
+======================================
+======================================
+PC = 43
+
+reg[0]=   0
+reg[1]=   3
+reg[2]=   2
+reg[3]=   1
+reg[4]=   3
+reg[5]=  1e
+reg[6]=   1
+reg[7]=  3a
+memory[0x 0]=   3, memory[0x 1]=   0, memory[0x 2]=   0, memory[0x 3]=   1
+memory[0x 4]=   2, memory[0x 5]=   0, memory[0x 6]=   0, memory[0x 7]=   0
+memory[0x 8]=   0, memory[0x 9]=   0, memory[0x a]=   0, memory[0x b]=   0
+memory[0x c]=   0, memory[0x d]=   0, memory[0x e]=   0, memory[0x f]=   0
+memory[0x10]=   0, memory[0x11]=   0, memory[0x12]=   0, memory[0x13]=   0
+memory[0x14]=   0, memory[0x15]=   0, memory[0x16]=   0, memory[0x17]=   0
+memory[0x18]=   0, memory[0x19]=   0, memory[0x1a]=   0, memory[0x1b]=   0
+memory[0x1c]=   0, memory[0x1d]=   0, memory[0x1e]=   0, memory[0x1f]=   0
+memory[0x20]=   0, memory[0x21]=   0, memory[0x22]=   0, memory[0x23]=   0
+memory[0x24]=   0, memory[0x25]=   0, memory[0x26]=   0, memory[0x27]=   0
+memory[0x28]=   0, memory[0x29]=   0, memory[0x2a]=   0, memory[0x2b]=   0
+memory[0x2c]=   0, memory[0x2d]=   0, memory[0x2e]=   0, memory[0x2f]=   0
+======================================
+======================================
+PC = 44
+
+reg[0]=   0
+reg[1]=   3
+reg[2]=   2
+reg[3]=   1
+reg[4]=  48
+reg[5]=  1e
+reg[6]=   1
+reg[7]=  3a
+memory[0x 0]=   3, memory[0x 1]=   0, memory[0x 2]=   0, memory[0x 3]=   1
+memory[0x 4]=   2, memory[0x 5]=   0, memory[0x 6]=   0, memory[0x 7]=   0
+memory[0x 8]=   0, memory[0x 9]=   0, memory[0x a]=   0, memory[0x b]=   0
+memory[0x c]=   0, memory[0x d]=   0, memory[0x e]=   0, memory[0x f]=   0
+memory[0x10]=   0, memory[0x11]=   0, memory[0x12]=   0, memory[0x13]=   0
+memory[0x14]=   0, memory[0x15]=   0, memory[0x16]=   0, memory[0x17]=   0
+memory[0x18]=   0, memory[0x19]=   0, memory[0x1a]=   0, memory[0x1b]=   0
+memory[0x1c]=   0, memory[0x1d]=   0, memory[0x1e]=   0, memory[0x1f]=   0
+memory[0x20]=   0, memory[0x21]=   0, memory[0x22]=   0, memory[0x23]=   0
+memory[0x24]=   0, memory[0x25]=   0, memory[0x26]=   0, memory[0x27]=   0
+memory[0x28]=   0, memory[0x29]=   0, memory[0x2a]=   0, memory[0x2b]=   0
+memory[0x2c]=   0, memory[0x2d]=   0, memory[0x2e]=   0, memory[0x2f]=   0
+======================================
+======================================
+PC = 45
+
+reg[0]=   0
+reg[1]=   3
+reg[2]=   2
+reg[3]=   1
+reg[4]=  48
+reg[5]=  1e
+reg[6]=   1
+reg[7]=  3a
+memory[0x 0]=   3, memory[0x 1]=   0, memory[0x 2]=   0, memory[0x 3]=   1
+memory[0x 4]=   2, memory[0x 5]=   0, memory[0x 6]=   0, memory[0x 7]=   0
+memory[0x 8]=   0, memory[0x 9]=   0, memory[0x a]=   0, memory[0x b]=   0
+memory[0x c]=   0, memory[0x d]=   0, memory[0x e]=   0, memory[0x f]=   0
+memory[0x10]=   0, memory[0x11]=   0, memory[0x12]=   0, memory[0x13]=   0
+memory[0x14]=   0, memory[0x15]=   0, memory[0x16]=   0, memory[0x17]=   0
+memory[0x18]=   0, memory[0x19]=   0, memory[0x1a]=   0, memory[0x1b]=   0
+memory[0x1c]=   0, memory[0x1d]=   0, memory[0x1e]=   0, memory[0x1f]=   0
+memory[0x20]=   0, memory[0x21]=   0, memory[0x22]=   0, memory[0x23]=   0
+memory[0x24]=   0, memory[0x25]=   0, memory[0x26]=   0, memory[0x27]=   0
+memory[0x28]=   0, memory[0x29]=   0, memory[0x2a]=   0, memory[0x2b]=   0
+memory[0x2c]=   0, memory[0x2d]=   0, memory[0x2e]=   0, memory[0x2f]=   0
+======================================
+======================================
+PC = 48
+
+reg[0]=   0
+reg[1]=   3
+reg[2]=   2
+reg[3]=   1
+reg[4]=  48
+reg[5]=  1e
+reg[6]=   1
+reg[7]=  46
+memory[0x 0]=   3, memory[0x 1]=   0, memory[0x 2]=   0, memory[0x 3]=   1
+memory[0x 4]=   2, memory[0x 5]=   0, memory[0x 6]=   0, memory[0x 7]=   0
+memory[0x 8]=   0, memory[0x 9]=   0, memory[0x a]=   0, memory[0x b]=   0
+memory[0x c]=   0, memory[0x d]=   0, memory[0x e]=   0, memory[0x f]=   0
+memory[0x10]=   0, memory[0x11]=   0, memory[0x12]=   0, memory[0x13]=   0
+memory[0x14]=   0, memory[0x15]=   0, memory[0x16]=   0, memory[0x17]=   0
+memory[0x18]=   0, memory[0x19]=   0, memory[0x1a]=   0, memory[0x1b]=   0
+memory[0x1c]=   0, memory[0x1d]=   0, memory[0x1e]=   0, memory[0x1f]=   0
+memory[0x20]=   0, memory[0x21]=   0, memory[0x22]=   0, memory[0x23]=   0
+memory[0x24]=   0, memory[0x25]=   0, memory[0x26]=   0, memory[0x27]=   0
+memory[0x28]=   0, memory[0x29]=   0, memory[0x2a]=   0, memory[0x2b]=   0
+memory[0x2c]=   0, memory[0x2d]=   0, memory[0x2e]=   0, memory[0x2f]=   0
+======================================

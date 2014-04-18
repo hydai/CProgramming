@@ -1,0 +1,7 @@
+int i = 5 + 1;
+float f;
+long l;
+i = i * 2 + 5 / 3 + f * 1 / 2 - 0.2;
+f = i + - i * i / f - 0.2;
+l = 2;
+//return 0

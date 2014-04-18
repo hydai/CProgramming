@@ -1,0 +1,89 @@
+===In "input-1.txt"===
+1 0
+term num: 3
+1 1
+term num: 3
+2 0
+term num: 3
+3 0
+term num: 4
+4 0
+term num: 4
+5 0
+term num: 4
+[1;32;32mint[m i ; [1;32;32mfloat[m f ; 
+[1;32;32mlong[m l ; 
+f [1;32;34m=[m 5.4 ; 
+i [1;32;34m=[m 10 ; 
+l [1;32;34m=[m 2 ; 
+//return 0 
+===In "input-2.txt"===
+1 0
+term num: 2
+Error: Line1
+===In "input-3.txt"===
+1 0
+term num: 3
+2 0
+term num: 3
+3 0
+term num: 3
+4 0
+term num: 4
+5 0
+term num: 3
+Error: Line5
+===In "input-4.txt"===
+1 0
+term num: 3
+2 0
+term num: 3
+3 0
+term num: 3
+4 0
+term num: 3
+Error: Line4
+===In "input-5.txt"===
+1 0
+term num: 3
+2 0
+term num: 3
+3 0
+term num: 3
+4 0
+term num: 4
+5 0
+term num: 4
+Error: Line5
+===In "input-6.txt"===
+1 0
+term num: 3
+2 0
+term num: 3
+3 0
+term num: 3
+4 0
+term num: 4
+5 0
+term num: 4
+6 0
+term num: 4
+[1;32;32mint[m i ; 
+[1;32;32mfloat[m f ; 
+[1;32;32mlong[m l ; 
+f [1;32;34m=[m 5.4 ; 
+i [1;32;34m=[m 10 ; 
+l [1;32;34m=[m 2 ; 
+//return 0 
+===In "input-7.txt"===
+1 0
+term num: 3
+Error: Line1
+===In "input-8.txt"===
+//int i = 5 + 1 
+//float f 
+//long l 
+//i = i * 2 + 5 / 3 + f * 1 / 2 - 0.2 
+//f = i + i * i / f - 0.2 
+//l = 2 
+//return 0 

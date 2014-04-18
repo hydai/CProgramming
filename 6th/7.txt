@@ -1,0 +1,5 @@
+int i;  int j; int a;  //int b; int  c;
+float f;
+j = 5;
+c = 2; //gg
+b = 3;

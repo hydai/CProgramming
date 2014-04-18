@@ -1,0 +1,13 @@
+In a typical hypervisor, there are three major compo- nents: CPU virtualization, 
+memory virtualization, and I/O virtualization. For CPU virtualization, ARMvisor uses 
+traditional “trap and emulate” to deal with sensi- tive instructions. Since there is no 
+hardware support for virtualization in ARM architecture V6 and earlier, we have to 
+patch the guest OS to force critical instructions to trap. For memory virtualization, 
+the functional- ity of the MMU, which translates a guest virtual address to host 
+physical address, is emulated. In ARMvisor, a shadow page table is dynamically 
+allocated to avoid the inefficiency and inflexibility of static allocation for the guest 
+OSes. In addition, ARMvisor uses R-Map to take care of protecting the memory 
+space of the guest OS. For I/O virtualization, ARMvisor relies on QEMU to emulate 
+I/O devices. We have implemented KVM on ARM-based Linux kernel for all three 
+components in ARMvisor. At this time, we can successfully run a guest Ubuntu 
+system on an Ubuntu host OS with ARMvisor on the ARM-based TI BeagleBoard.
